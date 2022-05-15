@@ -1,0 +1,82 @@
+
+.highlight{
+    background-color: transparent;
+}
+.highlight pre code {
+    font-size: inherit;
+    color: #212529;
+}
+.nt {
+    color: #2f6f9f;
+}
+.na {
+    color: #4f9fcf;
+}
+.s {
+    color: #d44950;
+}
+pre.prettyprint {
+    background-color: #eee;
+    border: 0px;
+    margin: 0;        
+    padding: 20px;
+    text-align: left;
+}
+
+.atv,
+.str {
+    color: #05AE0E;
+}
+
+.tag,
+.pln,
+.kwd {
+    color: #3472F7;
+}
+
+.atn {
+    color: #2C93FF;
+}
+
+.pln {
+    color: #a5a5a5;
+}
+
+.com {
+    color: #999;
+}
+/*about icon code show hide*/
+#copy{
+	border: none;
+    background: center;
+    width: 50%;
+    padding: 0px -10px;
+    color: #a5a8ad;
+}
+.copy {
+	color: #8DA8AD;
+}
+/*sidebar logout button*/
+button.logout-sidebar {
+    border: none;
+    background-color: unset;
+    color: #77797c;
+    display: block;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #77797c;
+    padding: 10px;
+}
+i.logout-sidebar-icon.icon-power {
+    margin-right: 16%;
+}
+/*Nav logout button*/
+button.nav-logout {
+    border: none;
+    display: block;
+    background-color: #22252A;
+}
+i.icon-power.logout-nav {
+    color: #77797c;
+}
+
